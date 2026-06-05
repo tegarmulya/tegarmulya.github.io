@@ -587,7 +587,7 @@ scene.add(planet);
 
 //Ganti Deskripsi Planet
 const ringTexts = [
-  'Galaxy of love From sky',//untuk deskripsi planet layer 1
+  'Galaxy of love From SKY',//untuk deskripsi planet layer 1
   "LOGIN ROBLOX WOI",//untuk deskripsi planet layer 2
   "♡Happy Girlfriend day♡",//untuk deskripsi planet layer 3
   "04/06/2026",//untuk deskripsi planet layer 4
